@@ -6,6 +6,10 @@
 
 ![Demonstração do Template](./template.png)
 
+## >_ Execução e Retorno via Terminal
+
+![Demonstração do Template](./terminal.png)
+
 Um motor de processamento de pagamentos modular desenvolvido em **Java 21 puro**, focado na demonstração de padrões de projeto (Design Patterns) e princípios **SOLID**.
 
 ## 🛠️ Tecnologias e Conceitos
