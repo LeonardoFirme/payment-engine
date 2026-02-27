@@ -1,0 +1,24 @@
+# Compilados e Binários
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Arquivos da IDE (VS Code / IntelliJ / Eclipse)
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+*.iws
+.vscode/
+bin/
+
+# Sistema
+.DS_Store
+thumbs.db
